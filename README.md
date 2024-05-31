@@ -81,7 +81,7 @@ The numerical results are reported in the table below:
 | Model | MAE | RMSE | MAPE (%) |
 | --- | --- | --- | --- |
 | SSA-VMD-MFA-BiGRU | 4.3789 | 5.6107 | 1.0599 |
-| <span style="color:lightgreen">Improved SSA-VMD-MFA-BiGRU</span> | <span style="color:lightgreen">2.9181</span> | <span style="color:lightgreen">3.8153</span> | <span style="color:lightgreen">0.7172</span> |
+| **Improved SSA-VMD-MFA-BiGRU** | **2.9181** | **3.8153** | **0.7172** |
 
 The direct summation technique outperformed the SSA-VMD-MFA-BiGRU model by Wang and Liu in all three metrics.
 
@@ -103,7 +103,7 @@ For some unknown reason, the SZI final prediction did not quite achieve the erro
 | GRU<sup>[2](#gru)</sup>               | 221.3521 | 290.9207 | 1.6643 |
 | CEEMDAN-LSTM<sup>[3](#ceemdan)</sup>      | 223.2584 | 281.5606 | 1.6427 |
 | SSA-VMD-MFA-BiGRU | 171.1673 | 221.2086 | 1.2796 |
-| <span style="color:lightgreen">Improved SSA-VMD-MFA-BiGRU</span> | <span style="color:lightgreen">160.1349</span>| <span style="color:lightgreen">190.2766</span>| <span style="color:lightgreen">1.1747</span> |
+| **Improved SSA-VMD-MFA-BiGRU** | **160.1349** | **190.2766** | **1.1747** |
 | SSA-SVR<sup>[4](#ssa-svr)</sup>           | 446.6226 | 486.6464 | 3.9549 |
 | CNN-BILSTM<sup>[5](#cnn-bilstm)</sup>        | 479.4441 | 588.2834 | 4.6337 |
 | SSA-BIGRU<sup>[6](#ssa-bigru)</sup>         | 187.7221 | 247.5064 | 1.4110 |
@@ -125,7 +125,7 @@ The other stock used for comparison in the paper was the Shanghai Stock Exchange
 | GRU<sup>[2](#gru)</sup>                   | 37.3347 | 50.9810 | 1.1155 |
 | CEEMDAN-LSTM<sup>[3](#ceemdan)</sup>      | 102.4273 | 123.4081 | 3.0580 |
 | SSA-VMD-MFA-BiGRU                         | 29.9973 | 39.3508 | 0.8946 |
-| <span style="color:lightgreen">Improved SSA-VMD-MFA-BiGRU</span> | <span style="color:lightgreen">16.2963</span>| <span style="color:lightgreen">20.8189</span>| <span style="color:lightgreen">0.4832</span> |
+| **Improved SSA-VMD-MFA-BiGRU** | **16.2963**| **20.8189**| **0.4832** |
 | SSA-SVR<sup>[4](#ssa-svr)</sup>           | 109.1372 | 117.2263 |  3.3783 |
 | CNN-BILSTM<sup>[5](#cnn-bilstm)</sup>     | 133.8181 | 167.2553 |  4.5655 |
 | SSA-BIGRU<sup>[6](#ssa-bigru)</sup>       | 76.6564  | 89.0099  | 2.2300 |
