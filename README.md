@@ -136,7 +136,7 @@ The other stock used for comparison in the paper was the Shanghai Stock Exchange
 
 ## Citations
 
-<a name="#Wang">1</a> Wang, J., Liu, J. Two-Stage Deep Ensemble Paradigm Based on Optimal Multi-scale Decomposition and Multi-factor Analysis for Stock Price Prediction. Cogn Comput 16, 243–264 (2024). https://doi.org/10.1007/s12559-023-10203-x
+<a name="#Wang">1</a> Wang, J., Liu, J. Two-Stage Deep Ensemble Paradigm Based on Optimal Multi-scale Decomposition and Multi-factor Analysis for Stock Price Prediction. Cogn Comput 16, 243–264 (2024). https://doi.org/10.1007/s12559-023-10203-x.
 
 <a name="#gru">2</a> Saud AS, Shakya S. Analysis of look back period for stock price prediction with RNN variants: a case study on banking sector of NEPSE. Procedia Comput Sci. 2020. https://doi.org/10.1016/j.procs.2020.03.419.
 
